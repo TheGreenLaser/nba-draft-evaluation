@@ -3,7 +3,7 @@
 A data analysis project examining which positions offer the most reliable outcomes when selected with a lottery pick in the NBA
 draft, using an Omega-style analysis built from Box Plus-Minus (BPM) data.
 
-📊 **[View the full report](https://thegreenlaser.github.io/nba-draft-evaluation/)**
+📊 **[View the full report](https://thegreenlaser.github.io/nba-draft-evaluation/](https://thegreenlaser.github.io/nba-draft-evaluation/report.html)**
 
 ## Key Finding
 
